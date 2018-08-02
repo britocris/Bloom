@@ -1,0 +1,32 @@
+footer{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 50px;
+  background-color: #000;
+  margin-bottom: 0px;
+}
+
+.footer_copirights{
+  margin-bottom: 0px;
+  color: #fff;
+}
+
+.footer__icons{
+  font-size: 20px;
+  color: #fff;
+  transition:         .2s ease-in;
+  &:hover{
+    color: #ff3300;
+  }
+}
+
+.footer_link{
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 12px;
+  transition:         .2s ease-in;
+  &:hover{
+    color: #ff3300;
+    text-decoration: none;
+  }
+}
