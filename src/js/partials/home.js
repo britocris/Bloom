@@ -6,10 +6,9 @@
 
 $("#banner").vegas({
     slides: [
-        { src: "../img/banner/bloom-banner1.png" }
-        /* { src: "../img/banner/banner4.jpg" } */
+        { src: "img/banner/bloom-banner1.png" }
     ],
-    overlay: "../img/overlays/03.png", 
+    overlay: "img/overlays/03.png", 
     timer: false
 });
 
